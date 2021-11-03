@@ -1,0 +1,4 @@
+today is cool day
+python was easy
+file handling
+python program
